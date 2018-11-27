@@ -48,13 +48,15 @@ https://github.com/thunlp/THULAC-Python
 https://pypi.org/project/jieba/  
 https://github.com/fxsjy/jieba  
 •	ChineseWordSegmentation(CWS)  
-
 •	CKIP分詞工具（繁中）中央研究院  
 http://ckip.iis.sinica.edu.tw:8080/contact/  
 •	CoreNLP Stanford (Java) (multi-language)  
 https://stanfordnlp.github.io/CoreNLP/human-languages.html  
-5)	POS Tagging (詞性標注)  
-In Chinese NLP tasks, this step is not necessary, unless for specific tasks such as sentiment analysis.
+
+### ***5)	POS Tagging (詞性標注)***  
+> In Chinese NLP tasks, this step is not necessary, unless for specific tasks such as sentiment analysis.
+
 Most commonly-used tool: THULAC、Stanford CoreNLP(他們都是工具包，有分詞也有標注)
-6)	Eliminate not-needed information(去除停用詞)
-停用詞一般指對文本特徵沒有任何貢獻的字詞，如：邊點符號、語氣、人稱等。
+### ***6)	Eliminate not-needed information(去除停用詞)***  
+> 停用詞一般指對文本特徵沒有任何貢獻的字詞，如：邊點符號、語氣、人稱等。
+
