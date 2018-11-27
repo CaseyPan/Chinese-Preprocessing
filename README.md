@@ -73,6 +73,9 @@ CA8 Chinese Word Embedding Evaluation tool
 https://github.com/Embedding/Chinese-Word-Vectors  
 http://aclweb.org/anthology/P18-2023  
 
+北京大學開放研究數據平台  
+http://opendata.pku.edu.cn/  
+
 哈工大ELMo pretrained 各種語言(包含簡、繁中)  
 https://github.com/HIT-SCIR/ELMoForManyLangs/blob/master/README.md  
 
@@ -82,6 +85,3 @@ https://github.com/pwxcoo/chinese-xinhua
 
 Gluonnlp  
 https://github.com/dmlc/gluon-nlp  
-
-
-
