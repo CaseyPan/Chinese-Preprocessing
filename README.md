@@ -48,7 +48,7 @@ Most commonly-used tokenize tool includes:
 &nbsp;&nbsp;&nbsp;&nbsp;•	Jieba（結巴）（簡中、繁中）百度開發    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://pypi.org/project/jieba/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/fxsjy/jieba  
-&nbsp;&nbsp;&nbsp;&nbsp;•	ChineseWordSegmentation(CWS)  
+&nbsp;&nbsp;&nbsp;&nbsp;•	ChineseWordSegmentation(CWS)  https://github.com/Moonshile/ChineseWordSegmentation  
 &nbsp;&nbsp;&nbsp;&nbsp;•	CKIP分詞工具（繁中）中央研究院  http://ckip.iis.sinica.edu.tw:8080/contact/    
 &nbsp;&nbsp;&nbsp;&nbsp;•	CoreNLP Stanford (Java) (multi-language)  https://stanfordnlp.github.io/CoreNLP/human-languages.html  
 
@@ -76,7 +76,7 @@ http://aclweb.org/anthology/P18-2023
 哈工大ELMo pretrained 各種語言(包含簡、繁中)  
 https://github.com/HIT-SCIR/ELMoForManyLangs/blob/master/README.md  
 
-*上面link沒有整理到的*  
+上面link沒有整理到的：  
 中华新华字典数据库  
 https://github.com/pwxcoo/chinese-xinhua  
 
