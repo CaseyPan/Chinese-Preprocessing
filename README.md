@@ -41,17 +41,15 @@ Most commonly-used toolkit:
 
 <pre>•	Character-based: “我|就|讀|清|大|，|目|前|大|二|。”  
 •	Word-based: “我|就讀|清大|，|目前|大二|。” </pre>
+
 Most commonly-used tokenize tool includes:  
-•	THULAC（THU Lexical Analyzer for Chinese）（簡中）清华大学自然语言处理与社会人文计算实验室  
-https://github.com/thunlp/THULAC-Python  
-•	Jieba（結巴）（簡中、繁中）百度開發  
-https://pypi.org/project/jieba/  
-https://github.com/fxsjy/jieba  
-•	ChineseWordSegmentation(CWS)  
-•	CKIP分詞工具（繁中）中央研究院  
-http://ckip.iis.sinica.edu.tw:8080/contact/  
-•	CoreNLP Stanford (Java) (multi-language)  
-https://stanfordnlp.github.io/CoreNLP/human-languages.html  
+&nbsp;&nbsp;&nbsp;&nbsp;•	THULAC (THU Lexical Analyzer for Chinese) （簡中）清华大学自然语言处理与社会人文计算实验室   &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/thunlp/THULAC-Python    
+&nbsp;&nbsp;&nbsp;&nbsp;•	Jieba（結巴）（簡中、繁中）百度開發    
+&nbsp;&nbsp;&nbsp;&nbsp;https://pypi.org/project/jieba/  
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/fxsjy/jieba  
+&nbsp;&nbsp;&nbsp;&nbsp;•	ChineseWordSegmentation(CWS)  
+&nbsp;&nbsp;&nbsp;&nbsp;•	CKIP分詞工具（繁中）中央研究院  http://ckip.iis.sinica.edu.tw:8080/contact/    
+&nbsp;&nbsp;&nbsp;&nbsp;•	CoreNLP Stanford (Java) (multi-language)  https://stanfordnlp.github.io/CoreNLP/human-languages.html  
 
 ### ***5)	POS Tagging (詞性標注)***  
 > In Chinese NLP tasks, this step is not necessary, unless for specific tasks such as sentiment analysis.
