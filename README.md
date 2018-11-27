@@ -76,7 +76,7 @@ http://aclweb.org/anthology/P18-2023
 哈工大ELMo pretrained 各種語言(包含簡、繁中)  
 https://github.com/HIT-SCIR/ELMoForManyLangs/blob/master/README.md  
 
-*上面link沒有整理到的*
+*上面link沒有整理到的*  
 中华新华字典数据库  
 https://github.com/pwxcoo/chinese-xinhua  
 
