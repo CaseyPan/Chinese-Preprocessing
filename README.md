@@ -51,12 +51,12 @@ Most commonly-used tokenize tool includes:
 &nbsp;&nbsp;&nbsp;&nbsp;•	ChineseWordSegmentation(CWS)  https://github.com/Moonshile/ChineseWordSegmentation  
 &nbsp;&nbsp;&nbsp;&nbsp;•	CKIP分詞工具（繁中）中央研究院  http://ckip.iis.sinica.edu.tw:8080/contact/    
 &nbsp;&nbsp;&nbsp;&nbsp;•	CoreNLP Stanford (Java) (multi-language)  https://stanfordnlp.github.io/CoreNLP/human-languages.html  
+&nbsp;&nbsp;&nbsp;&nbsp;•	FudanNLP 中文自然语言处理工具包  https://github.com/FudanNLP/fnlp  
 
 ### ***5)	POS Tagging (詞性標注)***  
 > In Chinese NLP tasks, this step is not necessary, unless for specific tasks such as sentiment analysis.
 
 Most commonly-used tool: THULAC、Stanford CoreNLP(他們都是工具包，有分詞也有標注)  
-&nbsp;&nbsp;&nbsp;&nbsp;•	FudanNLP 中文自然语言处理工具包  https://github.com/FudanNLP/fnlp  
 
 ### ***6)	Eliminate not-needed information(去除停用詞)***  
 > 停用詞一般指對文本特徵沒有任何貢獻的字詞，如：邊點符號、語氣、人稱等。
