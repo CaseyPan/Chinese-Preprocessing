@@ -55,7 +55,7 @@ Most commonly-used tokenize tool includes:
 ### ***5)	POS Tagging (詞性標注)***  
 > In Chinese NLP tasks, this step is not necessary, unless for specific tasks such as sentiment analysis.
 
-Most commonly-used tool: THULAC、Stanford CoreNLP(他們都是工具包，有分詞也有標注)
+Most commonly-used tool: THULAC、Stanford CoreNLP(他們都是工具包，有分詞也有標注)  
 &nbsp;&nbsp;&nbsp;&nbsp;•	FudanNLP 中文自然语言处理工具包  https://github.com/FudanNLP/fnlp  
 
 ### ***6)	Eliminate not-needed information(去除停用詞)***  
@@ -76,6 +76,7 @@ http://aclweb.org/anthology/P18-2023
 哈工大ELMo pretrained 各種語言(包含簡、繁中)  
 https://github.com/HIT-SCIR/ELMoForManyLangs/blob/master/README.md  
 
+*上面link沒有整理到的*
 中华新华字典数据库  
 https://github.com/pwxcoo/chinese-xinhua  
 
