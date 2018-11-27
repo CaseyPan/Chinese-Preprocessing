@@ -1,4 +1,5 @@
 # Chinese-Preprocessing
+## Flowchart
 ### ***1)	Find Suitable Corpora***  
 > For different tasks, there are different corpora that are suitable.  
 
@@ -55,6 +56,31 @@ Most commonly-used tokenize tool includes:
 > In Chinese NLP tasks, this step is not necessary, unless for specific tasks such as sentiment analysis.
 
 Most commonly-used tool: THULAC、Stanford CoreNLP(他們都是工具包，有分詞也有標注)
+&nbsp;&nbsp;&nbsp;&nbsp;•	FudanNLP 中文自然语言处理工具包  https://github.com/FudanNLP/fnlp  
+
 ### ***6)	Eliminate not-needed information(去除停用詞)***  
 > 停用詞一般指對文本特徵沒有任何貢獻的字詞，如：邊點符號、語氣、人稱等。
+
+## Other Resources  
+中文自然語言處理的相關資料  
+*非常詳細！整理了很多不同的中文NLP資源*  
+(including Chinese Word Segmentation tool, Chinese Corpora, Popular Toolkits)   
+https://github.com/crownpku/Awesome-Chinese-NLP   
+
+CA8 Chinese Word Embedding Evaluation tool  
+*(ACL2018) a new Chinese word embedding evaluation toolkit*  
+(Github裡包含在不同corpora pretrained好的word vectors)  
+https://github.com/Embedding/Chinese-Word-Vectors  
+http://aclweb.org/anthology/P18-2023  
+
+哈工大ELMo pretrained 各種語言(包含簡、繁中)  
+https://github.com/HIT-SCIR/ELMoForManyLangs/blob/master/README.md  
+
+中华新华字典数据库  
+https://github.com/pwxcoo/chinese-xinhua  
+
+Gluonnlp  
+https://github.com/dmlc/gluon-nlp  
+
+
 
